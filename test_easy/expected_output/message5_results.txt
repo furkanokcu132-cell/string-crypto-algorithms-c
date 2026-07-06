@@ -1,0 +1,2 @@
+Key length: 3
+Recovered key: SUN

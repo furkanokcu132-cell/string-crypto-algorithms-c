@@ -1,0 +1,10 @@
+FROM: Commander, Station X
+TO: All Field Operatives
+DATE: 15-MAR-1943
+CLASSIFICATION: TOP SECRET
+
+Intelligence reports confirm enemy fleet movements in the North Atlantic. Convoy HX-229 departed Halifax on 8 March with 40 merchant ships. U-boat wolf packs are believed to be positioned along the expected route.
+
+All stations must maintain 24-hour watch on frequencies 3.5 MHz and 7.2 MHz. Report any intercepts immediately using Protocol Zeta-7.
+
+Remember: loose lips sink ships!

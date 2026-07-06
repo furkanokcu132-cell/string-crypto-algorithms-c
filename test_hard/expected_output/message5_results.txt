@@ -1,0 +1,2 @@
+Key length: 6
+Recovered key: PEQUOD
